@@ -6,7 +6,7 @@ This is an extremely simple Python ETL pipeline that extracts, tranforms, and lo
 
 ## Libraries
 
-Pandas: Used to extracted the data from 3 different types of files (CSV, JSON, XML), and load data into data frames.
-Glob: It was used to extracted the data alongside Pandas.
-XML ElementTree: Was used to extract data from XML files alongside Pandas.
-Datetime: Used to created logs.
+*Pandas: Used to extracted the data from 3 different types of files (CSV, JSON, XML), and load data into data frames.
+*Glob: It was used to extracted the data alongside Pandas.
+*XML ElementTree: Was used to extract data from XML files alongside Pandas.
+*Datetime: Used to created logs.
